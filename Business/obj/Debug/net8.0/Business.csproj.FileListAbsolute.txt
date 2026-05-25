@@ -1,0 +1,15 @@
+/home/bshara/Desktop/C#/ToDoSolution/Business/bin/Debug/net8.0/Business.deps.json
+/home/bshara/Desktop/C#/ToDoSolution/Business/bin/Debug/net8.0/Business.dll
+/home/bshara/Desktop/C#/ToDoSolution/Business/bin/Debug/net8.0/Business.pdb
+/home/bshara/Desktop/C#/ToDoSolution/Business/bin/Debug/net8.0/DataAccess.dll
+/home/bshara/Desktop/C#/ToDoSolution/Business/bin/Debug/net8.0/DataAccess.pdb
+/home/bshara/Desktop/C#/ToDoSolution/Business/obj/Debug/net8.0/Business.csproj.AssemblyReference.cache
+/home/bshara/Desktop/C#/ToDoSolution/Business/obj/Debug/net8.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/home/bshara/Desktop/C#/ToDoSolution/Business/obj/Debug/net8.0/Business.AssemblyInfoInputs.cache
+/home/bshara/Desktop/C#/ToDoSolution/Business/obj/Debug/net8.0/Business.AssemblyInfo.cs
+/home/bshara/Desktop/C#/ToDoSolution/Business/obj/Debug/net8.0/Business.csproj.CoreCompileInputs.cache
+/home/bshara/Desktop/C#/ToDoSolution/Business/obj/Debug/net8.0/Business.csproj.CopyComplete
+/home/bshara/Desktop/C#/ToDoSolution/Business/obj/Debug/net8.0/Business.dll
+/home/bshara/Desktop/C#/ToDoSolution/Business/obj/Debug/net8.0/refint/Business.dll
+/home/bshara/Desktop/C#/ToDoSolution/Business/obj/Debug/net8.0/Business.pdb
+/home/bshara/Desktop/C#/ToDoSolution/Business/obj/Debug/net8.0/ref/Business.dll
